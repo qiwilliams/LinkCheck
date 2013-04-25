@@ -1,7 +1,7 @@
 LinkCheck
 =========
 
-his application will scan web pages and find all the links that do not return status code 200 OK.  
+This application will scan web pages and find all the links that do not return status code 200 OK.  
 
 It includes the following files in the package com.paypal.test.application.doc:
   DynamicCollectionIterator.java   
